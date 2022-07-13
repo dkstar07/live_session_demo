@@ -63,3 +63,14 @@ git checkout main
 git merge mynewbranch
 ```
   - Now you can see your newly created file
+
+- Push changes to the repository 
+```
+git push
+```
+The above command will not work unless you are the owner or a contributor to the repository.
+
+# Forking and Pull back
+- Fork this repository from github and create a forked repository for your own. 
+- Then you can work locally for the modification with above mentioned steps
+- Finally, you can send a pull request to the source repository.
