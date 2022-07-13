@@ -8,7 +8,7 @@ git config --global user.name "your name"
 
 - Clone the repository
 ```
-git clone https://github.com/krishnan314/live_session_demo.git
+git clone https://github.com/bscse2001/live_session_demo.git
 ```
 
 - Create a new branch
