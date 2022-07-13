@@ -10,6 +10,10 @@ git config --global user.name "your name"
 ```
 git clone https://github.com/bscse2001/live_session_demo.git
 ```
+- Change directory to the repository
+```
+cd live_session_demo
+```
 
 - Create a new branch
 ```
